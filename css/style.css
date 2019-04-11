@@ -99,6 +99,10 @@ textarea {
 
 /************************ END MAIN **********************/
 
+div > img {
+  width: 20em;
+}
+
   footer {
     display: flex;
     background-color: #061339;
